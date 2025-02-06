@@ -11,5 +11,5 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - name: akash.gundu@gramener.com
+      - name: dondetichandraprakash.reddy@gramener.com
         run: echo "Hello, world!"
